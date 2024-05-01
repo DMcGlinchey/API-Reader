@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DHL_API_READER", "DHL_API_READER\DHL_API_READER.csproj", "{4DB5AE52-ADD2-4290-9601-BE32DCE23A50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DB5AE52-ADD2-4290-9601-BE32DCE23A50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DB5AE52-ADD2-4290-9601-BE32DCE23A50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DB5AE52-ADD2-4290-9601-BE32DCE23A50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DB5AE52-ADD2-4290-9601-BE32DCE23A50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74A2B093-52B0-4EF6-A913-1A72DF8DBC4E}
+	EndGlobalSection
+EndGlobal
